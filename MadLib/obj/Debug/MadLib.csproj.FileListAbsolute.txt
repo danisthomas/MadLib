@@ -1,0 +1,7 @@
+C:\Users\Bagwill\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\Bagwill\source\repos\MadLib\MadLib\bin\Debug\MadLib.exe
+C:\Users\Bagwill\source\repos\MadLib\MadLib\bin\Debug\MadLib.pdb
+C:\Users\Bagwill\source\repos\MadLib\MadLib\obj\Debug\MadLib.csprojAssemblyReference.cache
+C:\Users\Bagwill\source\repos\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Bagwill\source\repos\MadLib\MadLib\obj\Debug\MadLib.exe
+C:\Users\Bagwill\source\repos\MadLib\MadLib\obj\Debug\MadLib.pdb

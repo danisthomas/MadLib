@@ -47,9 +47,9 @@ namespace MadLib
             Console.WriteLine("Enter a plural noun:");
             pluralNoun6 = Console.ReadLine();
 
-
+            Console.Clear();
             Console.WriteLine("The Art Of Espionage\n");
-
+            Console.ReadLine();
 
             Console.Write("Espionage is the formal word for ");
             ColorChange(activeVerb);
@@ -57,9 +57,9 @@ namespace MadLib
 
             Console.Write("In the shadowy work of spies, a/an ");
             ColorChange(adjective1);
-            Console.Write(" organization like the US government use spies to inflitrate ");
+            Console.Write(" organization like the US government use spies to infiltrate ");
             ColorChange(adjective2);
-            Console.WriteLine(" groups for the purpose of obtaing top secret ");
+            Console.WriteLine(" groups for the purpose of obtaining top secret ");
             ColorChange(pluralNoun);
             Console.WriteLine(".");
             Console.Write("For example, spies might have to crack the code for accessing confidential, ");
@@ -105,7 +105,7 @@ namespace MadLib
         {
             ConsoleColor originalColor = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Write(text);
+            Console.Write(text.ToUpper());
             Console.ForegroundColor = originalColor;
         }
 
